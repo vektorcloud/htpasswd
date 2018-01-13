@@ -1,6 +1,7 @@
 # htpasswd
 
-[![Circle CI](https://circleci.com/gh/vektorcloud/htpasswd.svg?style=svg)](https://circleci.com/gh/vektorcloud/htpasswd)
+![circleci][circleci]
+
 
 Minimal htpasswd generator
 
@@ -9,3 +10,5 @@ Minimal htpasswd generator
 ```bash
 docker run -ti --rm quay.io/vektorcloud/htpasswd:latest <user> <pass>
 ```
+
+[circleci]: https://img.shields.io/circleci/project/github/vektorcloud/htpasswd.svg "htpasswd"
