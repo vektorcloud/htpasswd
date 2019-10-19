@@ -1,6 +1,6 @@
 # htpasswd
 
-![circleci][circleci]
+[![circleci][circleci]](https://circleci.com/gh/vektorcloud/htpasswd)
 
 
 Minimal htpasswd generator
